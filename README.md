@@ -13,17 +13,21 @@
 
 
 
+# Nama Proyek
 
-<script>
-    function func_1() {
-        document.getElementById("star_counter").innerHTML = 'If not print for seconds, please refresh';
-        github_id = document.getElementById("user").value;
-        document.getElementById("star_counter").innerHTML = cal_github_star(github_id);
-    }
-</script>
+Deskripsi singkat tentang proyek Anda.
 
+## Statistik
 
-Input github id: <input name="user" value="guofei9987" type="text" id="user">
-<input name="Button" type="button" value="Calculate" onClick="func_1()">
+- **Jumlah Pengunjung**  
+  ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPO_NAME)
 
-<p id="star_counter"></p>
+- **Jumlah Bintang**  
+  ![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)
+
+- **Jumlah Pengikut**  
+  ![GitHub Followers](https://img.shields.io/github/followers/USERNAME?style=social)
+
+---
+
+**Catatan**: Ganti `USERNAME` dengan nama pengguna GitHub Anda dan `REPO_NAME` dengan nama repositori Anda.
