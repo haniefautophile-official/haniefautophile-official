@@ -12,22 +12,3 @@
 
 
 
-
-# Nama Proyek
-
-Deskripsi singkat tentang proyek Anda.
-
-## Statistik
-
-- **Jumlah Pengunjung**  
-  ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPO_NAME)
-
-- **Jumlah Bintang**  
-  ![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)
-
-- **Jumlah Pengikut**  
-  ![GitHub Followers](https://img.shields.io/github/followers/USERNAME?style=social)
-
----
-
-**Catatan**: Ganti `USERNAME` dengan nama pengguna GitHub Anda dan `REPO_NAME` dengan nama repositori Anda.
