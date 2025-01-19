@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniefautophile-official&label=Profile%20views&color=0e75b6&style=flat" alt="haniefautophile-official" /></p><br>
 
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/haniefautophile-official)
+
 ![Hanief Autophile Official GitHub stats](https://github-readme-stats.vercel.app/api?username=haniefautophile-official&theme=chartreuse-dark&show_icons=true)
 
 
